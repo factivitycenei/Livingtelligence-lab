@@ -1,6 +1,7 @@
 # Livingtelligence Architecture
 
 Livingtelligence is an institutional architecture for governing co-intelligence under increasing automation.
+
 Its purpose is to help organizations observe how intelligence is being redistributed among people, AI systems, and organizational structures, and to respond before harmful patterns become invisible culture.
 
 ## Architecture In One Sentence
