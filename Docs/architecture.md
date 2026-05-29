@@ -4,13 +4,17 @@ Livingtelligence is an institutional architecture for governing co-intelligence 
 
 Its purpose is to help organizations observe how intelligence is being redistributed among people, AI systems, and organizational structures, and to respond before harmful patterns become invisible culture.
 
-## Architecture In One Sentence
+## Architecture in One Sentence
 
 Livingtelligence connects signals from real work to phenomena, readouts, stewards, and practical assets for prevention, mitigation, nourishment, and correction.
 
 ```text
 Signals -> Phenomena -> Readouts -> Stewards -> Assets -> Prevention / Mitigation / Nourishment / Correction
 ```
+
+![Livingtelligence flow](assets/livingtelligence-flow.png)
+
+The flow moves from dispersed signals to phenomena, observation, organizational capacity, and institutional evolution.
 
 ## Three Agents
 
